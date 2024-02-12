@@ -1,0 +1,49 @@
+.d-block{
+   height: 1000px;
+}
+
+
+
+.mypics img{
+    background-size: cover;
+    height: 500px;
+    width: 350px;
+    /* overflow: hidden; */
+    justify-content: space-between;
+    margin-left: 90px;
+    display: inline;
+    margin-top: 20px;
+    border: 2px solid black;
+    margin-top: 30px;
+}
+
+
+.main video{
+    height: 500px;
+    width: 350px;
+    justify-content: space-between;
+    margin-right: 70px;
+    border: 2px solid black;
+   margin-top: 20px;
+  
+}
+
+.main{
+    margin-left: 90px;
+    margin-top: 20px;
+
+}
+
+
+/* home */
+
+
+.mainhomena video{
+    margin-left: 90px;
+    display: inline;
+    height: 500px;
+    width: 350px;
+    margin-top: 20px;
+    justify-content: space-between;
+    border: 2px solid black;
+}
